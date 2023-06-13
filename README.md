@@ -4,3 +4,5 @@ The main thing I was hoping to achieve, on my page was to showcase who I am as a
 
 I did have to search through some of the w3 schools courses and the weeks courses in order to be able to make the boxes work the way they do right now.
 Once I have work and a workable resume to attach to the boxes I will create new pages to link to those boxes on my portfolio showcase.
+
+The link to the deployed site is: https://dcmoretz.github.io/Daniel-s-Portfolio-Page/
